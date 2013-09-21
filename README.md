@@ -14,7 +14,7 @@ Laboratorio 2:
  
 3. Calcular e imprimir el número de segundos que hay en un determinado número de días. HECHO!
  
-4. Don David es el dueño de una Casa de Cambio y necesita un programa que permita leer por teclado una cantidad expresada en dólares y convertir e imprimir esa cantidad en pesos colombianos.
+4. Don David es el dueño de una Casa de Cambio y necesita un programa que permita leer por teclado una cantidad expresada en dólares y convertir e imprimir esa cantidad en pesos colombianos. HECHO!
  
 5. En una copa de ‘Tapa Roja’ hay 8 onzas. Convertir una cantidad de onzas en copas e imprimir los dos valores.
  
