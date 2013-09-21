@@ -18,7 +18,7 @@ Laboratorio 2:
  
 5. En una copa de ‘Tapa Roja’ hay 8 onzas. Convertir una cantidad de onzas en copas e imprimir los dos valores.
  
-6. Leer por teclado el nombre y las tres notas de un alumno de Algoritmia y Programación y calcular e imprimir su definitiva correspondiente al primer 50%. Los porcentajes de las notas son 15, 20 y 15, respectivamente.
+6. Leer por teclado el nombre y las tres notas de un alumno de Algoritmia y Programación y calcular e imprimir su definitiva correspondiente al primer 50%. Los porcentajes de las notas son 15, 20 y 15, respectivamente. A MEDIAS!
  
 7. Leer la cédula, nombre, sexo, horas trabajadas y valor de la hora de un trabajador y deducir e imprimir su salario neto aplicando una bonificación del 4% y un aporte del 7% a la EPS.
  
